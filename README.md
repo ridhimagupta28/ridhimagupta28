@@ -1,7 +1,3 @@
-## Hi there 👋
-
-# friendly-potato
-<div align="center">
 
 # Hi 👋, I'm Ridhima Gupta
 
