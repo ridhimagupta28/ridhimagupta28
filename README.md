@@ -63,18 +63,6 @@ Development and application of Recurrent Neural Networks for sequence modeling a
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ridhimagupta28&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhimagupta28&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/ridhima-gupta-696141260
