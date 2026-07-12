@@ -1,7 +1,7 @@
 
-# Hi 👋, I'm Ridhima Gupta
+# Hey, I'm Ridhima Gupta
 
-### Mathematics Graduate • Data Analyst • Machine Learning Enthusiast
+### Mathematics Graduate • Data Science and Machine Learning enthusiast
 
 </div>
 
