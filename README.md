@@ -10,6 +10,7 @@
 ## 🚀 About Me
 
 - 🎓 B.Sc. Mathematics (Hons.) with Research
+- 🎓 M.Sc. Mathematics
 - 📊 Interested in Data Science, analytics and machine learning
 - 🧠 Dissertation experience involving Recurrent neural networks (RNNs)
 - 📈 Skilled in Python, R and Power BI
